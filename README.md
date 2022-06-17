@@ -1,2 +1,2 @@
 # Axel
-Hey how are you? :)
+Hey, how are you? :)
